@@ -30,13 +30,13 @@ more tools: :point_down:<br>
 
 ## :camera: Screenshot:
 
-https://github.com/Khalidhusain786/khalidhusain/blob/main/1.png
+![1](https://github.com/Khalidhusain786/khalidhusain/blob/main/1.png)
 
-https://github.com/Khalidhusain786/khalidhusain/blob/main/2.png
+![2](https://github.com/Khalidhusain786/khalidhusain/blob/main/2.png)
 
-https://github.com/Khalidhusain786/khalidhusain/blob/main/3.png
+![3](https://github.com/Khalidhusain786/khalidhusain/blob/main/3.png)
 
-https://github.com/Khalidhusain786/khalidhusain/blob/main/4.png
+![4](https://github.com/Khalidhusain786/khalidhusain/blob/main/4.png)
 ## :mag_right: admin finder:
 
 ![4](https://github.com/khalidhusain/Firecrack/blob/master/img/admin_pan.png)
