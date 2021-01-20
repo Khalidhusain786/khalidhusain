@@ -39,7 +39,7 @@ more tools: :point_down:<br>
 ![4](https://github.com/Khalidhusain786/khalidhusain/blob/main/4.png)
 ## :mag_right: admin finder:
 
-![4](https://github.com/khalidhusain/Firecrack/blob/master/img/admin_pan.png)
+![5](https://github.com/Khalidhusain786/khalidhusain/blob/main/admin_pan.png)
 
 ## :page_with_curl: bing dorking:
 
