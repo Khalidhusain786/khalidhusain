@@ -62,9 +62,9 @@ more tools: :point_down:<br>
 
 * `pkg install git`
 
-* `git clone https://github.com/khalidhusain/Firecrack`
+* git clone https://github.com/Khalidhusain786/khalidhusain.git
 
-* `cd Firecrack`
+* `cd khalidhusain
 
 * `pip2 install -r requirements.txt`
 
@@ -80,9 +80,9 @@ more tools: :point_down:<br>
 
 * `apt-get install git`
 
-* `git clone https://github.com/khalidhusain/Firecrack`
+* `git clone https://github.com/Khalidhusain786/khalidhusain.git
 
-* `cd Firecrack`
+* `cd khalidhusain
 
 * `pip install -r requirements.txt`
 
