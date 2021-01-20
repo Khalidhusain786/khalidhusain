@@ -43,7 +43,7 @@ more tools: :point_down:<br>
 
 ## :page_with_curl: bing dorking:
 
-![5](https://github.com/khalidhusain/Firecrack/blob/master/img/dorking.png)
+![6](https://github.com/Khalidhusain786/khalidhusain/blob/main/dorking.png)
 
 ## :game_die: facebook hacking random attack:
 
