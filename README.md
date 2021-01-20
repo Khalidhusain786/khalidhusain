@@ -30,7 +30,7 @@ more tools: :point_down:<br>
 
 ## :camera: Screenshot:
 
-https://githttps://github.com/Khalidhusain786/khalidhusain/blob/main/1.png
+https://github.com/Khalidhusain786/khalidhusain/blob/main/1.png
 
 https://github.com/Khalidhusain786/khalidhusain/blob/main/2.png
 
