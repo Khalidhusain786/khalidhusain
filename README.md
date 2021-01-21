@@ -81,7 +81,7 @@
 
 NOTE:
 
-1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line
+1.before use facebook random attack, edit file "nano module/wordlist.txt" andns add your wordlist minim of 5 line
 
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 
@@ -89,5 +89,4 @@ NOTE:
 
 # support me
 
-<a href="Instagram/Khalidhusain786"><img src="Facebook/khalidhusain786"><img src="Telegram/khalidhusain786">
-
+! Instagram and Facebook account = Khalidhusain786
