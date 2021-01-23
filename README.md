@@ -73,7 +73,7 @@
 
 * `pip install -r requirements.txt`
 
-* `python firecrack.py`
+* `python2 firecrack.py`
 
 * `help`
 
