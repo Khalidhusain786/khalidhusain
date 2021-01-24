@@ -31,15 +31,15 @@
 
 ![6](https://github.com/Khalidhusain786/khalidhusain/blob/main/dorking.png)
 
-## :game_die: facebook hacking random attack:
 
-![6](https://github.com/khalidhusain/Firecrack/blob/master/img/random_1.png)
 
-![7](https://github.com/khalidhusain/Firecrack/blob/master/img/random_2.png)
 
-## :globe_with_meridians: deface:
 
-![8](https://github.com/khalidhusain/Firecrack/blob/master/img/deface.png)
+
+
+
+
+
 
 ## install and usage:
 
