@@ -83,7 +83,7 @@ NOTE:
 
 1.before use facebook random attack, edit file "nano module/wordlist.txt" andns add your wordlist minim of 5 line
 
-2.before use firecrack deface, put your deface script one folder with firecrack.py
+
 
 ```
 
