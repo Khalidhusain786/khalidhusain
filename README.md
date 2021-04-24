@@ -45,37 +45,37 @@
 
 **Termux:**
 
-* `pkg install python2`
+* pkg install python2
 
-* `pkg install git`
+* pkg install git
 
 * git clone https://github.com/Khalidhusain786/khalidhusain.git
 
-* `cd khalidhusain
+* cd khalidhusain
 
-* `pip2 install -r requirements.txt`
+* pip2 install -r requirements.txt
 
-* `python2 firecrack.py`
+* python2 firecrack.py
 
-* `help`
+* help
 
 **Linux:**
 
-* `apt-get install python`
+* apt-get install python
 
-* `apt-get install python-pip`
+* apt-get install python-pip
 
-* `apt-get install git`
+* apt-get install git
 
-* `git clone https://github.com/Khalidhusain786/khalidhusain.git
+* git clone https://github.com/Khalidhusain786/khalidhusain.git
 
-* `cd khalidhusain
+* cd khalidhusain
 
-* `pip install -r requirements.txt`
+* pip install -r requirements.txt
 
-* `python2 firecrack.py`
+* python2 firecrack.py
 
-* `help`
+* help
 
 ```
 
